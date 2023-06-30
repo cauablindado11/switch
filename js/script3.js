@@ -1,3 +1,4 @@
+
 //contador
 
 let numero = parseInt(prompt("Digite um valor: "));
@@ -9,3 +10,4 @@ for (let i = 1; i <= numero; i++) {
 
 contagem += "Finalizou!!!";
 console.log(contagem);
+
